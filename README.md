@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Julian David Velez 👋
 
-<!--
-**David-velez-uae/David-velez-uae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems & Telecommunications Engineer** | Networking · Cloud · Automation
+📍 Dubai, UAE
 
-Here are some ideas to get you started:
+I design, simulate and automate network and systems solutions.
+I'm building a portfolio of hands-on projects in networking, telecom
+and infrastructure, and I'm open to opportunities in the UAE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- Network design and simulation
+- Network automation with Python
+- Traffic analysis and troubleshooting
+- Cloud and monitoring
+
+## Projects
+Coming soon: projects are being documented here.
+
+## Contact
+- LinkedIn: (coming soon)
+- Email: juliandavidvelezquecano@gmail.com
