@@ -16,7 +16,8 @@ opportunities in the UAE.
 - **Tools:** Git, GitHub, Visual Studio Code
 
 ## Projects
-- 🔧 *In progress:* **Telecom Network KPI Analysis** (Python + SQL)
+- 📡 **[Telecom Network KPI Analysis](https://github.com/David-velez-uae/telecom-network-kpi-analysis)**: Python and SQL analysis of a simulated 4G/5G network (traffic patterns, congestion, outage detection).
+- 🗄️ **[Network Inventory App](https://github.com/David-velez-uae/network-inventory-app)**: Equipment inventory and ticketing app (Python, SQLite, Streamlit) with automated tests.
 
 ## Contact
 - LinkedIn: [Julian David Velez](https://www.linkedin.com/in/julian-david-velez-754605425)
